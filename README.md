@@ -21,13 +21,12 @@ The ability to detect cones in the scene is crucial for autonomous driving appli
 - VideoTestingScript runs trained network on Test_Vid.mp4 for detection of the Blue and Yellow cones and labels them.   <br />
 
 
-### Test your Video
+### Testing Evaluation
 
-1. Place *(the video)* into the working directory.
+1. Place all the files in the working directory.
 2. Load trained network into the Workspace with YOLOv2ConeDetector.
 3. Open VideoTestingScript.
-4. Change the names in the script: Test_Vid.mp4 --> *(Name of the video.extension)*
-5. Run the script.
+4. Run the script.
 
 ## Background Material
 
