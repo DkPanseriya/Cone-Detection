@@ -28,6 +28,12 @@ The ability to detect cones in the scene is crucial for autonomous driving appli
 3. Open VideoTestingScript.
 4. Run the script.
 
+https://github.com/DkPanseriya/Cone-Detection/assets/160492376/639f114e-be83-438f-b979-71685850c41d
+
+
+https://github.com/DkPanseriya/Cone-Detection/assets/160492376/013f60f7-7205-4b23-afbf-dee1b1d32fa9
+
+
 ## Background Material
 
 1. [How to Perform Data Labeling for Camera and Lidar Sensor Data](https://www.mathworks.com/videos/ground-truth-labeler-app-1529300803691.html)
